@@ -1,4 +1,4 @@
 # Customer Churn Prediction Project
 
 - The project has to be implemented using Github, DVC, MLflow to track experiments
-- The dataset is a 
+- The dataset is a customer churn prediction with columns CustomerID
