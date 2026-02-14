@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/d3d49ce703844a3bbf89582111f66e08/artifacts
+end_time: 1771095824110
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: d3d49ce703844a3bbf89582111f66e08
+run_name: dashing-sheep-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095820034
+status: 3
+tags: []
+user_id: Sanket

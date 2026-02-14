@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/962256367488143993/a778ccf830c8459a9f27857ec7059431/artifacts
+deleted_time: 1771095220182
+end_time: 1771055632928
+entry_point_name: ''
+experiment_id: '962256367488143993'
+lifecycle_stage: deleted
+run_id: a778ccf830c8459a9f27857ec7059431
+run_name: suave-tern-280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771055627320
+status: 3
+tags: []
+user_id: Sanket

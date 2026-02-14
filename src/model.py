@@ -25,7 +25,7 @@ data = pd.read_csv(data_path)
 X = data.iloc[:,:-1]
 y = data.iloc[:,[-1]]
 
-mlflow.set_experiment("Customer_Churn_Prediction")
+mlflow.set_experiment("Customer-Churn-Prediction")
 
 with mlflow.start_run():
 

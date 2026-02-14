@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/197a45b44a724610a3948dc99ebc591f/artifacts
+end_time: 1771095500325
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 197a45b44a724610a3948dc99ebc591f
+run_name: youthful-snipe-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095496318
+status: 3
+tags: []
+user_id: Sanket

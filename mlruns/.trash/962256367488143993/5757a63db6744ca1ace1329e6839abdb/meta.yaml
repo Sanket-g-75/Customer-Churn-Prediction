@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/962256367488143993/5757a63db6744ca1ace1329e6839abdb/artifacts
+deleted_time: 1771095220182
+end_time: 1771056233106
+entry_point_name: ''
+experiment_id: '962256367488143993'
+lifecycle_stage: deleted
+run_id: 5757a63db6744ca1ace1329e6839abdb
+run_name: polite-elk-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771056228973
+status: 3
+tags: []
+user_id: Sanket

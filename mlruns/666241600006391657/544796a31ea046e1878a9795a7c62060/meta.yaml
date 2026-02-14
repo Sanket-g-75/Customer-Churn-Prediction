@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/544796a31ea046e1878a9795a7c62060/artifacts
+end_time: 1771095902005
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 544796a31ea046e1878a9795a7c62060
+run_name: luxuriant-frog-260
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095897903
+status: 3
+tags: []
+user_id: Sanket

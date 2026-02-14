@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/962256367488143993/c8a58157fbd2457580fbeb3284924841/artifacts
+deleted_time: 1771095220182
+end_time: 1771056178926
+entry_point_name: ''
+experiment_id: '962256367488143993'
+lifecycle_stage: deleted
+run_id: c8a58157fbd2457580fbeb3284924841
+run_name: languid-mare-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771056174777
+status: 3
+tags: []
+user_id: Sanket

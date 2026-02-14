@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/614f54d29f144a55b277a1d511347197/artifacts
+end_time: 1771095614082
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 614f54d29f144a55b277a1d511347197
+run_name: big-roo-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095609986
+status: 3
+tags: []
+user_id: Sanket

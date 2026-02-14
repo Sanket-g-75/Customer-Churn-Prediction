@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/96675a787af241b0973bbe6eb8a1d443/artifacts
+end_time: 1771095427935
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 96675a787af241b0973bbe6eb8a1d443
+run_name: judicious-croc-123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095421644
+status: 3
+tags: []
+user_id: Sanket

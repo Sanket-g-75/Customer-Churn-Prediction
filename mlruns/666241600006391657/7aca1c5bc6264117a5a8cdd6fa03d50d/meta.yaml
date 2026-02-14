@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/7aca1c5bc6264117a5a8cdd6fa03d50d/artifacts
+end_time: 1771095928606
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 7aca1c5bc6264117a5a8cdd6fa03d50d
+run_name: wise-goat-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095924191
+status: 3
+tags: []
+user_id: Sanket

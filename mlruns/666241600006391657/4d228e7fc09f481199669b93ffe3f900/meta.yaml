@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/4d228e7fc09f481199669b93ffe3f900/artifacts
+end_time: 1771095553764
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 4d228e7fc09f481199669b93ffe3f900
+run_name: mercurial-sheep-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095549708
+status: 3
+tags: []
+user_id: Sanket

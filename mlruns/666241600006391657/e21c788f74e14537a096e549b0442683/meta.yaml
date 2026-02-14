@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/e21c788f74e14537a096e549b0442683/artifacts
+end_time: 1771095995055
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: e21c788f74e14537a096e549b0442683
+run_name: able-ray-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771095990888
+status: 3
+tags: []
+user_id: Sanket

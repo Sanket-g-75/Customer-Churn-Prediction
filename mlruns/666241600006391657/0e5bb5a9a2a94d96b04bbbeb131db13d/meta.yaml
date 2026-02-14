@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/666241600006391657/0e5bb5a9a2a94d96b04bbbeb131db13d/artifacts
+end_time: 1771096017988
+entry_point_name: ''
+experiment_id: '666241600006391657'
+lifecycle_stage: active
+run_id: 0e5bb5a9a2a94d96b04bbbeb131db13d
+run_name: colorful-squid-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771096013907
+status: 3
+tags: []
+user_id: Sanket

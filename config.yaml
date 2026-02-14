@@ -4,20 +4,20 @@ test_train_split:
   random_state: 42
   shuffle: false
 
-model: random_forest
+model: xgboost
 
 models:
   random_forest: 
     n_estimators: 100
-    criterion: gini
-    max_depth: null
+    criterion: entropy
+    max_depth: 3
     min_samples_split: 2
     max_features: sqrt
   xgboost: 
     n_estimators: 100
-    loss: log_loss
-    learning_rate: 0.1
-    criterion: friedman_mse
+    loss: exponential
+    learning_rate: 0.01
+    criterion: squared_error
     max_depth: 3
     max_features: null
   
