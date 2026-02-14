@@ -1,0 +1,10 @@
+artifact_location: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/962256367488143993/models/m-10ec61364163442f8ecf48e5163397ce/artifacts
+creation_timestamp: 1771055998054
+experiment_id: '962256367488143993'
+last_updated_timestamp: 1771056002044
+model_id: m-10ec61364163442f8ecf48e5163397ce
+model_type: null
+name: xgboost
+source_run_id: 8965f9d39b27428a8462e1025f254239
+status: 2
+status_message: null

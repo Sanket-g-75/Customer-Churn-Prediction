@@ -1,0 +1,10 @@
+artifact_location: file:///D:/1.Work/WorkStation/WorkSpace/Projects/Customer-Churn-Prediction/mlruns/962256367488143993/models/m-4c8ced163ecd4fada661323bed4f7814/artifacts
+creation_timestamp: 1771056229194
+experiment_id: '962256367488143993'
+last_updated_timestamp: 1771056233101
+model_id: m-4c8ced163ecd4fada661323bed4f7814
+model_type: null
+name: random_forest
+source_run_id: 5757a63db6744ca1ace1329e6839abdb
+status: 2
+status_message: null
